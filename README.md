@@ -1,6 +1,6 @@
 # The Ogglebogs​
 
-#### By Justin Spencer, 12 June 2018
+#### By Justin Spencer, 12 June 2015
 
 Far, far away, in deepest, darkest, outer space is a very strange planet called Ogg.
 
@@ -14,6 +14,7 @@ And there are lots of funny little houses all around. And in those little houses
 
 Now, you might well ask what in blazing bananas are Ogglebogs? Well, they are the friendliest little aliens you could ever find. Some are big, some small, some thin and some tall, some round and some fluffy.
 
+![](2.webp)
 
 Rocco has green skin with a white circle in the middle of this tummy, their light pink smile is wide and their orange hair rounded edges like a cloud.
 
@@ -23,6 +24,7 @@ Rocco wakes up every morning then has a lovely warm bath of purple custard. Oh y
 
 Then off goes Rocco to join a whole bunch of bestest friends for breakfast at the Oggle Café. Now, the Oggle Café is at the end of the clouds with a great view of the Oggle Bubble Mountain. This is a mountain made of guess what? Yes, bubbles! And sometimes, when the wind blows, some bubbles pop and some even float away!
 
+![](3.webp)
 
 The cafe is a pink teapot shape and there's a purple path leading to the front door. The cafe is surrounded by bubble mountains.
 
@@ -40,11 +42,11 @@ Finally, there’s Twinko who is pink and fluffy with very long legs. So long th
 
 Blobbo, Coco, Oddo, Beepo and Twinko, are all waiting at the Café for their friend Rocco so they can start to eat their very favourite breakfast of Ogglecakes.
 
+![](4.webp)
 
 The Ogglebogs are sat around a round lime green table with purple and green cakes in front of them. There's an oval window behind them showing the dark blue space sky and the light blue bubble mountains.
 
 Now, Ogglecakes are very tasty and they are made from opples, plims and dotes. Yes, I did say opples, plims and dotes. They are Ogg fruits, a bit like our apples, plums and dates. But opples are square and bright blue, plims are shaped like a triangle and dotes are green with pink stripes.
-
 
 A purple cake has a green icing on top, and a pink ball placed on top.
 
@@ -55,7 +57,6 @@ One day, as they were all finishing up their Ogglecakes, Blobbo said, “Do you 
 “Well, I need your help,” said Blobbo.
 
 Blobbo looked sad and then said, “You see, I was in my bath this morning and suddenly felt very hungry and all of a sudden my bath custard had gone.”
-
 
 Blobbo is a blue monster, he is peering over the side of a grey bathtub, his fingers holding onto the edge of the bath. His lips are covered in purple custard and he has a few purple splashes over his head.
 
@@ -75,7 +76,6 @@ Blobbo is a blue monster, he is peering over the side of a grey bathtub, his fin
 
 “Big bucket? I haven’t got a big bucket,” cried Blobbo.
 
-
 Rocco and Blobbo are sitting at the table with one ogglecake in front of them. They both have thought bubbles showing that they are thinking about a big bucket with purple liquid in it.
 
 “I see. Well, that means we will have to go through the Mushmallow Forest to the Bucket Cave to get one,” said Rocco. 
@@ -92,4 +92,4 @@ Stay tuned for more brilliant, custardy, Ogglebog stories with Rocco and his fri
 
 The End
 
-#### © Justin Spencer 2018
+#### © Justin Spencer 2015
