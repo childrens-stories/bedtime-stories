@@ -1,8 +1,9 @@
+<div align="center">
+
 # The Ogglebogs​
 
 #### By [Justin Spencer](about.md), 12 June 2015
 
-<div align="center">
 
 Far, far away, in deepest, darkest, outer space is a very strange planet called Ogg.
 
