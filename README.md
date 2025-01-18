@@ -4,6 +4,7 @@
 
 #### By [Justin Spencer](about.md), 12 June 2015
 
+![](oggle2b.png)
 
 Far, far away, in deepest, darkest, outer space is a very strange planet called Ogg.
 
