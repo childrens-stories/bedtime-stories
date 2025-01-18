@@ -1,10 +1,8 @@
 # The Ogglebogs​
 
-#### By Justin Spencer, 12 June 2015
+#### By [Justin Spencer](about.md), 12 June 2015
 
 <div align="center">
-
-![](slug.jpg)
 
 Far, far away, in deepest, darkest, outer space is a very strange planet called Ogg.
 
@@ -98,4 +96,4 @@ The End
 
 </div>
 
-#### © Justin Spencer 2015
+#### © Justin Spencer 2015. For licensing opportunities, please contact j.spencer-ip@proton.me
