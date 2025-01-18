@@ -2,6 +2,8 @@
 
 #### By Justin Spencer, 12 June 2015
 
+<div align="center">
+
 ![](slug.jpg)
 
 Far, far away, in deepest, darkest, outer space is a very strange planet called Ogg.
@@ -93,5 +95,7 @@ Will the Custard Lake be the right colour?
 Stay tuned for more brilliant, custardy, Ogglebog stories with Rocco and his friends on Planet Ogg. 
 
 The End
+
+</div>
 
 #### © Justin Spencer 2015
