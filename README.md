@@ -1,4 +1,3 @@
-<div align="center">
 
 # The Ogglebogs​
 
@@ -99,4 +98,3 @@ The End
 
 #### © Justin Spencer 2015. For licensing opportunities, please contact j.spencer-ip@proton.me
 
-</div>
