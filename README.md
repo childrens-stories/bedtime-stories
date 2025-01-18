@@ -95,6 +95,7 @@ Stay tuned for more brilliant, custardy, Ogglebog stories with Rocco and his fri
 
 The End
 
-</div>
 
 #### © Justin Spencer 2015. For licensing opportunities, please contact j.spencer-ip@proton.me
+
+</div>
